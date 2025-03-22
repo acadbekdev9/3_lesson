@@ -55,7 +55,7 @@ Long value of data: 8
 ```
 
 ## Result gif 
-![Demo](2lessonGif.gif)
+![Demo](2lessonGIF.gif)
 
 
 ## Explanation:
